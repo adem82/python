@@ -9,7 +9,7 @@ list2.sort()
 print ("the reversed list is", list2)
 
 list3 = []
-list3 = list1.copy
+list3 = list1.copy()
 print ("list3", list3)
 
 indexvalue = list2[2:6]
